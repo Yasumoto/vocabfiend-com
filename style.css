@@ -1,8 +1,6 @@
 /* Mad props to (an apparently old version) of https://github.com/h5bp/html5-boilerplate/blob/master/css/main.css */
 html {
   font-size: 100%;
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
 }
 html,
 button,
